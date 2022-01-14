@@ -1,5 +1,5 @@
 pandas
 numpy
 sklearn
-matplotlib
 word2number
+seaborn
