@@ -86,3 +86,6 @@
  22-02-2022 22:07:24:251 [pid=66949 tid=66949] NOTICE  cufio-drv:693 running in compatible mode
  22-02-2022 23:06:48:812 [pid=101271 tid=101271] NOTICE  cufio-drv:693 running in compatible mode
  22-02-2022 23:10:37:915 [pid=103684 tid=103684] NOTICE  cufio-drv:693 running in compatible mode
+ 22-02-2022 23:38:30:417 [pid=121477 tid=121477] NOTICE  cufio-drv:693 running in compatible mode
+ 22-02-2022 23:42:48:36 [pid=125249 tid=125249] NOTICE  cufio-drv:693 running in compatible mode
+ 23-02-2022 00:33:01:893 [pid=156937 tid=156937] NOTICE  cufio-drv:693 running in compatible mode
